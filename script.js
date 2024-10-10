@@ -1,6 +1,6 @@
 var userId;
-// var ws = new WebSocket("wss://happy-ortensia-alirh-94121905.koyeb.app/ws/game");
-var ws = new WebSocket("ws://localhost:8000/ws/game");
+var ws = new WebSocket("wss://happy-ortensia-alirh-94121905.koyeb.app/ws/game");
+//var ws = new WebSocket("ws://localhost:8000/ws/game");
 
 
 let gameActive = true;
